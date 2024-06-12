@@ -10,7 +10,7 @@ The numbers... what do they mean?
 
 Firstly i saw that the file was an image so i opened it
 
-![the_numbers.png](https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547a585649ba4fda/the_numbers.png)
+![the_numbers.png](/picoCTF/The_Numbers/resources/the_numbers.png)
 
 Then i used binwalk to search for any hidden files, it turned out that there was .zlib compressed folder so i extracted it
 
