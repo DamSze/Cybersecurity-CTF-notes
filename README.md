@@ -5,7 +5,11 @@ Welcome to my CTF journey repository! This repository contains write-ups, exploi
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [CTF Challenges](#ctf-challenges)
+- [Web Exploitation](#web-exploitation)
+- [Cryptography](#cryptography)
+- [Reverse Engineering](#reverse-engineering)
+- [Forensics](#forensics)
+- [Binary exploitation](#binary-exploitation)
 - [Resources](#resources)
 
 ## Introduction
@@ -14,10 +18,26 @@ In this repository, you'll find detailed write-ups for each CTF challenge I tack
 
 ## CTF Challenges
 
-- [CTF 1](CTFs/CTF1/Writeup.md)
-- [CTF 2](CTFs/CTF2/Writeup.md)
-- [CTF 3](CTFs/CTF3/Writeup.md)
+### Web Exploitation
+-------
+- [Scavenger Hunt](picoCTF/Scavenger_Hunt/Scavenger_Hunt.md)
+
+### Cryptography
+-------
+
+
+
+### Reverse Engineering
+-------
+- [Armssembly 0](picoCTF/ARMssembly_0/ARMssembly_0.md)
+
+### Forensics
+-------
+
+### Binary Exploitation
+-------
+- [The numbers](picoCTF/The_Numbers/The_Numbers.md)
 
 ## Resources
 
-- [Useful Links](Resources/UsefulLinks.md)
+- [Useful Links](Resources.md)
