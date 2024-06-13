@@ -24,7 +24,7 @@ In this repository, you'll find detailed write-ups for each CTF challenge I tack
 
 ### Cryptography
 -------
-
+- [interncdect](picoCTF/interncdec/interencdec.md)
 
 
 ### Reverse Engineering
