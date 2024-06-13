@@ -27,7 +27,7 @@ wpjvJAM{jhlzhy_k3jy9wa3k_h47j6k69}
 We are getting closer to getting the flag because of the { }
 Then i used CyberChef and selected the ROT13 brute force option for the first part of the string - wpjvJAM - it should give us picoCTF
 
-![inter_sth.png](/Cybersecurity-CTF-notes/picoCTF/interncdec/resources/inter_sth.png)
+![inter_sth.png](/picoCTF/interncdec/resources/inter_sth.png)
 
 We can see that the string needs to be rotated 19 times, final flag:
 
