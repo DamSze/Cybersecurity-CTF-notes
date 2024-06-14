@@ -25,6 +25,7 @@ In this repository, you'll find detailed write-ups for each CTF challenge I tack
 ### Cryptography
 -------
 - [interncdect](picoCTF/interncdec/interencdec.md)
+- [New Caesar]([picoCTF/New_Caesar/New_Caesar.md])
 
 
 ### Reverse Engineering
