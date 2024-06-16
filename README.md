@@ -4,13 +4,16 @@ Welcome to my CTF journey repository! This repository contains write-ups, exploi
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Web Exploitation](#web-exploitation)
-- [Cryptography](#cryptography)
-- [Reverse Engineering](#reverse-engineering)
-- [Forensics](#forensics)
-- [Binary exploitation](#binary-exploitation)
-- [Resources](#resources)
+- [My CTF Journey](#my-ctf-journey)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [CTF Challenges](#ctf-challenges)
+    - [Web Exploitation](#web-exploitation)
+    - [Cryptography](#cryptography)
+    - [Reverse Engineering](#reverse-engineering)
+    - [Forensics](#forensics)
+    - [Binary Exploitation](#binary-exploitation)
+  - [Resources](#resources)
 
 ## Introduction
 
@@ -30,7 +33,9 @@ In this repository, you'll find detailed write-ups for each CTF challenge I tack
 
 ### Reverse Engineering
 -------
-- [Armssembly 0](picoCTF/ARMssembly_0/ARMssembly_0.md)
+- Armssembly
+  - [Armssembly 0](picoCTF/ARMssembly_0/ARMssembly_0.md)
+  - [Armssembly 1](picoCTF/ARMssembly_1/ARMssembly_1.md)
 
 ### Forensics
 -------
