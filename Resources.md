@@ -6,26 +6,29 @@
 - [Forensics](#forensics)
 - [Binary exploitation](#binary-exploitation)
 
-### Web Exploitation
--------
+## Web Exploitation
+
 - [robots.txt](https://www.cloudflare.com/learning/bots/what-is-robots-txt/)
 - [.htaccess](https://help.one.com/hc/en-us/articles/115005586169-What-is-htaccess)
 - [.DS_Store](https://en.wikipedia.org/wiki/.DS_Store)
 
-### Cryptography
--------
+## Cryptography
 
 
 
-### Reverse Engineering
--------
+
+## Reverse Engineering
 
 
-### Forensics
--------
 
-### Binary Exploitation
--------
+## Forensics
+- `exiftool {img}` - allows for seeing metadata
+
+## Usefool commands
+
+
+## Binary Exploitation
+
 
 
 
